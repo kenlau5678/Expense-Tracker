@@ -2,10 +2,9 @@ var balance_text = document.querySelector('#balance')
 var income_text = document.querySelector('.income .data')
 var expense_text = document.querySelector('.expense .data')
 
-
-/* localStorage.setItem("income", '$0.00')
+ localStorage.setItem("income", '$0.00')
 localStorage.setItem('balance', '$0.00')
-localStorage.setItem('expense', '$0.00') */
+localStorage.setItem('expense', '$0.00') 
 /* localStorage.setItem('deletes', '')  */
 
 var text = document.querySelector('.text')
